@@ -14,4 +14,4 @@ This example includes:
 - File imports
 - Automatic Routing
 
-To get started, run `react-static create` and use the `material-ui` template.
+To get started, clone this repo and `yarn && yarn start`.
