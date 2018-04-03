@@ -35,7 +35,7 @@ export default withRouteData(({ posts }) => (
           </ListItem>
         ))}
       </List>
-      <Grid item xs={12} sm={3}/>
     </Grid>
+    <Grid item xs={12} sm={3}/>
   </Grid>
 ));
